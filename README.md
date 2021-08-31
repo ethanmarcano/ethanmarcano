@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethanmarcano
 - 👀 I’m interested in Data Analytics, Python, R, and Rust.
-- 🌱 I’m currently learning on furthering my education.
+- 🌱 I’m currently learning mathematical modeling, especially within a financial context.
 - 💞️ I’m looking to collaborate on different R projects.
 - 📫 How to reach me: emarcano501@gmail.com
 
